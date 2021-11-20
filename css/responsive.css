@@ -1,0 +1,54 @@
+
+
+@media(min-width: 576px) and (max-width: 767px){
+/*what section starts here*/
+	.what .heading h3{
+		padding-bottom: 10px;
+	}
+	.what .picture{
+		width: 100%;
+	}
+	.what .col-lg-4{
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+/*what section ends here*/
+
+/*attorneys section starts here*/
+	.attorneys .col-lg-4{
+		margin-top: 20px;
+	}
+	.attorneys .first{
+		margin: 0px auto;
+		text-align: center;
+		width: 80%;
+	}
+	.attorneys .first h4{
+		font-size: 30px;
+	}
+/*attorneys section ends here*/
+}
+
+
+@media(min-width: 768px) and (max-width: 991px){
+
+/*what section starts here*/
+	.what .picture{
+		width: 100%;
+}
+/*what section ends here*/
+
+/*attorneys section starts here*/
+	.attorneys .col-lg-4{
+		margin-top: 20px;
+	}
+	.attorneys .first{
+		margin: 0px auto;
+		text-align: center;
+		width: 80%;
+	}
+	.attorneys .first h4{
+		font-size: 30px;
+	}
+/*attorneys section ends here*/
+}

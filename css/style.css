@@ -1,0 +1,368 @@
+/*body*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+/*header starts here*/
+.header{
+	background: #fff;
+	padding: 10px;
+}
+.header img{
+	width: 140px;
+}
+.navbar-light .navbar-nav .nav-link{
+	font-size: 10px;
+	color: #28377E;
+	font-weight: bold;
+}
+/*header end here*/
+
+
+
+
+/*banner section starts here*/
+.banner{
+	background: url("../images/banner.png") center top no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.banner h1{
+	font-weight: bold;
+	color: #fff;
+	font-size: 50px;
+	padding: 150px 0px 100px 0px;
+}
+.banner .fa{
+	color: #fff;
+	padding-bottom: 50px;
+}
+.banner .icon{
+	width: 100%;
+}
+/*banner section ends here*/
+
+
+
+
+/*who section starts here*/
+.who .text{
+	width: 80%;
+	margin: auto;
+}
+.who h3{
+	font-weight: bold;
+	color: #1f4f87;
+	font-size: 30px;
+	padding: 20px 0px 10px 0px;
+}
+.who .text img{
+	padding-top: 40px;
+}
+.who{
+	padding-top: 100px; 
+}
+.who p{
+	color: #b4b4b5;
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+.who .picture {
+	width: 80%;
+	margin: auto;
+}
+.who .picture img{
+	width: 280px;
+	padding-top: 20px;: 
+}
+/*who section ends here*/
+
+
+
+
+/*what section starts here*/
+.what{
+	background: url("../images/lawyer.png") center top no-repeat;
+}
+.what .heading{
+	text-align: center;
+}
+.what .heading img{
+	padding: 65px 0px 20px 0px;
+}
+.what .heading h3{
+	color: #1f4f87;
+	font-weight: bold;
+	padding-bottom: 60px;
+}
+.what .picture{
+	width: 80%;
+}
+.what .picture .back-picture{
+	position: relative;
+}
+.what .picture .back-picture .info1{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+}
+.what .picture .back-picture .info2 img{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+}
+.what .picture .back-picture .info2 p{
+	position: absolute;
+	top: 40%;
+	left: 20%;
+}
+.what .picture .back-picture .info3 img{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+}
+.what .picture .back-picture .info3 p{
+	position: absolute;
+	top: 40%;
+	left: 30%;
+}
+.what .picture .back-picture .info1 p, .what .picture .back-picture .info2 p, .what .picture .back-picture .info3 p{
+	color: #fff;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1px;
+	font-size: 18px;
+}
+.what .picture .back-picture .info1 img{
+	margin-top: 80px;
+	width: 50px;
+}
+.what .picture .back-picture .info2 img{
+	margin-top: 120px;
+	width: 50px;
+}
+.what .picture .back-picture .info3 img{
+	margin-top: 120px;
+	width: 50px;
+}
+.what .picture .back-picture img{
+	width:100%;
+}
+.what .col-lg-4{
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
+/*what section ends here*/
+
+
+
+
+/*attorneys section starts here*/
+.attorneys{
+	background: url("../images/attor.png") center top no-repeat;
+}
+.attorneys .col-lg-4{
+	margin-top: 40px;
+}
+.attorneys .first{
+	margin: 90px;
+}
+.attorneys .first img{
+	width: 50px;
+	margin-bottom: 20px;
+}
+.attorneys .first h4{
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+}
+.attorneys .first p{
+	color: #fff;
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+.attorneys .first a{
+	color: #f2622c;
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+}
+.attorneys .second{
+	margin: 80px 0px 0px 0px;
+	position: relative;
+}
+.attorneys .second img{
+	width: 100%;
+}
+.attorneys .second p{
+	position: absolute;
+	color: #fff;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	left: 10%;
+	top: 80%;
+}
+.attorneys .third{
+	margin: 80px 0px 0px 0px;
+	position: relative;
+}
+.attorneys .third img{
+	width: 100%;
+}
+.attorneys .third p{
+	position: absolute;
+	color: #fff;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	left: 10%;
+	top: 80%;
+}
+.attorneys .fifth{
+	margin: 0px 0px 0px 0px;
+	position: relative;
+}
+.attorneys .fifth img{
+	width: 100%;
+}
+.attorneys .fifth p{
+	position: absolute;
+	color: #fff;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	left: 10%;
+	top: 80%;
+}
+.attorneys .sixth{
+	margin: 0px 0px 80px 0px;
+	position: relative;
+}
+.attorneys .sixth img{
+	width: 100%;
+}
+.attorneys .sixth p{
+	position: absolute;
+	color: #fff;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	left: 10%;
+	top: 80%;
+}
+/*attorneys section ends here*/
+
+
+
+
+.language .heading{
+	text-align: center;
+}
+.language .heading img{
+	margin-top: 100px;
+	width: 50px;
+}
+.language .heading h2{
+	color: #28377e;
+	font-size: 25px;
+	font-weight: 700;
+	margin-top: 18px;
+}
+.language .first h3{
+	color: #28377e;
+	font-size: 20px;
+	font-weight: 700;
+	margin-top: 80px;
+}
+.language .first p{
+	color: #b4b4b5;
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+.language .first a{
+	text-decoration: none;
+	color: #f2622c;
+	font-size: 12px;
+	font-weight: bold;
+}
+.language .first{
+	width: 90%;
+	margin: auto;
+}
+.language{
+	margin-bottom: 100px;
+}
+/*language section ends here*/
+
+
+
+
+/*contact section starts here*/
+.contact{
+	background: #28377e;
+	padding-bottom: 40px; 
+}
+.contact .main{
+	text-align: center;
+}
+.contact img{
+	margin-top: 80px;
+}
+.contact h2{
+	color: #fff;
+	font-size: 40px;
+	font-weight:700;
+	margin: 30px 0px 60px 0px;
+}
+.contact input{
+	display: block;
+	margin: 40px auto;
+	width: 60%;
+	padding: 10px 0px 4px 0px;
+	color: #fff;
+	background: transparent;
+	border-width: 0px 0px 1px 0px;
+}
+.contact button{
+	background: #f2622c;
+	padding: 10px 80px 10px 80px;
+	color: #fff;
+	font-weight: 700; 
+	letter-spacing: 1px;
+	border: 0px;
+	margin: 40px 0px;
+}
+/*contact section ends here*/
+
+
+
+
+/*footer section starts here*/
+.footer{
+	background: #0c1234;
+}
+.footer i{
+	color: #fff;
+}
+.footer .copy p{
+	color: #616ca8;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	padding: 20px 10px;
+}
+.footer .social i{
+	width: 15px;
+	padding: 10px;
+	margin: 10px;
+}
+.footer .social{
+	text-align: center;
+}
